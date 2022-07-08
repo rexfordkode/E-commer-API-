@@ -92,7 +92,7 @@ router.post('/register',
     }
 });
 
-//@router POST api/users/register
+//@router POST api/users/login
 //@desc Login User
 // @accss Public
 router.post('/login',[
